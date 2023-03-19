@@ -1,0 +1,62 @@
+{
+  "excperience": [
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/3429/3429142.png",
+      "title": "Maktab davri",
+      "text": "English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written",
+      "button": "2004-2013",
+      "read": "Read More",
+      "id": 1
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/2602/2602432.png",
+      "title": "Akademik Litsey",
+      "text": "English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written",
+      "button": "2013-2016",
+      "read": "Read More",
+      "id": 2
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/3429/3429328.png",
+      "title": "Oliy Talim",
+      "text": "English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written",
+      "button": "2016-2020",
+      "read": "Read More",
+      "id": 3
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/6062/6062646.png",
+      "title": "Way up",
+      "text": "English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written",
+      "button": "2020-2021",
+      "read": "Read More",
+      "id": 4
+    }
+  ],
+  "jobs": [
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/8074/8074800.png",
+      "title": "TATU FF",
+      "text": "English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written",
+      "button": "2019-2020",
+      "read": "Read More",
+      "id": 1
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/10076/10076835.png",
+      "title": "Uzbektelecom",
+      "text": "English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written",
+      "button": "2020-2021",
+      "read": "Read More",
+      "id": 2
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/2942/2942789.png",
+      "title": "IT SCHOOL",
+      "text": "English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written",
+      "button": "2021-2023",
+      "read": "Read More",
+      "id": 3
+    }
+  ]
+}
