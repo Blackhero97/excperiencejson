@@ -62,5 +62,14 @@
       "read": "Read More",
       "id": 3
     }
+  ],
+   "comments": [
+    {
+      "img": "icon",
+      "title": "Hasanboy Nurmuhammadov",
+      "text": "Hasanboy Nurmuuhammadov",
+      "id": 1
+    },
+   
   ]
 }
